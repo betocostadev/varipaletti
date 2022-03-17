@@ -1,7 +1,7 @@
 # Väripaletti
 
-Väripaletti (Color pallet) is a Color pallet app where you can find a select colors as you need.
-You can also create your own color pallet and save it.
+Väripaletti (Color palette) is a Color palette app where you can find a select colors as you need.
+You can also create your own color palette and save it.
 
 ## About
 
